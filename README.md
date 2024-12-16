@@ -1,7 +1,7 @@
 
 # Jeu Java : Aventure à Niveaux
 
-Un jeu développé en Java où le joueur traverse plusieurs niveaux, en maintenant ses points de vie (**LifePoints**) tout en respectant une limite de temps. 
+Un jeu développé en Java où le joueur traverse plusieurs niveaux : 3 pour l'instant, en maintenant ses points de vie (**LifePoints**) tout en respectant une limite de temps. 
 ---
 
 ## Fonctionnalités
